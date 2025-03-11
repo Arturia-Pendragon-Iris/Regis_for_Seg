@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import torch.utils.data
 import torch
 from torch.distributions.normal import Normal
-from registration_2025 import layers
+import layers
 from torchvision.transforms import transforms
 import numpy as np
 
