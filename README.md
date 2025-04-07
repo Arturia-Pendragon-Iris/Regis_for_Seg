@@ -1,5 +1,5 @@
 # Regis_for_Seg
-In this repository, we would like to explore the impact of registration-based augmentation and pretraining for medical segmentation.
+In this repository, we would like to explore the impact of registration-based augmentation and pretraining for medical segmentation. More codes will come soon.
 
 This repository is based on the following works.
 
